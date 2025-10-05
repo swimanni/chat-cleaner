@@ -1,0 +1,32 @@
+[
+  {
+    "time": "14:01",
+    "speaker": "Guest",
+    "role": "customer",
+    "message": "requests to cancel subscription"
+  },
+  {
+    "time": "14:02",
+    "speaker": "Guest",
+    "role": "customer",
+    "message": "confirms email"
+  },
+  {
+    "time": "14:05",
+    "speaker": "Dev Patel",
+    "role": "developer",
+    "message": "cancels subscription"
+  },
+  {
+    "time": "14:06",
+    "speaker": "Guest",
+    "role": "customer",
+    "message": "thanks Dev Patel"
+  },
+  {
+    "time": "14:07",
+    "speaker": "System",
+    "role": "automated",
+    "message": "chat end"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "time": "12:30:01 PM",
+    "speaker": "Agent Jane",
+    "role": "Agent",
+    "message": "Hi, I’m Jane from support."
+  },
+  {
+    "time": "12:31:10 PM",
+    "speaker": "Customer Bob",
+    "role": "Customer",
+    "message": "Hi, my account is locked."
+  },
+  {
+    "time": "12:32:40 PM",
+    "speaker": "Agent Jane",
+    "role": "Agent",
+    "message": "I see, let’s reset your password."
+  },
+  {
+    "time": "12:33:10 PM",
+    "speaker": "Customer Bob",
+    "role": "Customer",
+    "message": "Ok, I’ll wait."
+  },
+  {
+    "time": "12:34:10 PM",
+    "speaker": "Agent Jane",
+    "role": "Agent",
+    "message": "Can you please confirm your email address?"
+  },
+  {
+    "time": "12:35:40 PM",
+    "speaker": "Customer Bob",
+    "role": "Customer",
+    "message": "Yes, it’s bob@example.com."
+  },
+  {
+    "time": "12:36:10 PM",
+    "speaker": "Customer Bob",
+    "role": "Customer",
+    "message": "Thank you, Jane."
+  }
+]

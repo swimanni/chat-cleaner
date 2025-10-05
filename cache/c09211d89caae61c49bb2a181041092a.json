@@ -1,0 +1,38 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "Just checking in—are you still there? It seems like I haven't received a response from you in a while. Please let me know if you’re still with me."
+  },
+  {
+    "time": "T2",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "Thank you"
+  },
+  {
+    "time": "T3",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "Thank you for your patience"
+  },
+  {
+    "time": "T4",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "I cannot find the account"
+  },
+  {
+    "time": "T5",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "Can you please give me the account number?"
+  },
+  {
+    "time": "T6",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "If a form requesting your personal information does not appear, please click here to open it in a new tab."
+  }
+]

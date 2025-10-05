@@ -1,0 +1,24 @@
+Internal Participant(s): Arjun Mehta - EXT, Rina Das - EXT || 
+Date/Time Participant Type Participant Text || 
+09:00 AM  External  Guest hey... payment failed 😭😭 || 
+09:01 AM  Internal  Rina Das - EXT Hi! I’m Rina, from Billing Support. Could you please share your transaction ID? || 
+09:02  External  Guest TXN#4457_11 || 
+09:04  Internal  Rina Das - EXT Thanks! Let me check this for you... 💻 one moment please. || 
+09:05 AM Internal System Your chat may be recorded for quality and training. || 
+09:06  Internal  Arjun Mehta - EXT System shows refund in progress — expected 2-3 biz days. || 
+09:07  External  Guest oh ok, pls send me mail confirmation || 
+09:07 AM Internal Rina Das - EXT done ✅ mailed to your registered address. || 
+09:08 AM External Guest got it thanks so much!! || 
+09:09 AM Internal System chat end
+
+-------------------------------------------------------------
+
+Internal Participant(s): Dev Patel - EXT || 
+Date/Time Participant Type Participant Text || 
+14:01  External  Guest hi, need to cancel my subscription || 
+14:01  Internal  Bot/Flow *Conversation ID: cfd9a21b-8de8-4ff5-b93c-9cda7a6b9b33 || 
+14:02  Internal  Dev Patel - EXT Hello 👋 — sure, could you please confirm your email? || 
+14:03 External  Guest dev@sample.com || 
+14:05 Internal Dev Patel - EXT Thanks! Cancelled. You’ll receive an email shortly. || 
+14:06 External Guest appreciate it 🙏 || 
+14:07 Internal System Chat ended.

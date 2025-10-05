@@ -1,0 +1,56 @@
+[
+  {
+    "time": "8:59am",
+    "speaker": "cust",
+    "role": "customer",
+    "message": "hello tech??"
+  },
+  {
+    "time": "8:59am",
+    "speaker": "agent",
+    "role": "agent",
+    "message": "hi! what issue?"
+  },
+  {
+    "time": "8:59am",
+    "speaker": "cust",
+    "role": "customer",
+    "message": "my order stuck in process since yesterday"
+  },
+  {
+    "time": "8:59am",
+    "speaker": "agent",
+    "role": "agent",
+    "message": "pls give id"
+  },
+  {
+    "time": "8:59am",
+    "speaker": "cust",
+    "role": "customer",
+    "message": "ORD_55A9"
+  },
+  {
+    "time": "8:59am",
+    "speaker": "agent",
+    "role": "agent",
+    "message": "okay tracking now.. give me 2mins"
+  },
+  {
+    "time": "8:59am",
+    "speaker": "cust",
+    "role": "customer",
+    "message": "ok waitinggg"
+  },
+  {
+    "time": "8:59am",
+    "speaker": "agent",
+    "role": "agent",
+    "message": "shipped 5 oct"
+  },
+  {
+    "time": "8:59am",
+    "speaker": "cust",
+    "role": "customer",
+    "message": "cool ty bye"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "User",
+    "role": "customer",
+    "message": "laptop not start from morning, just black screen with cursor blinking"
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "AGENT (Ravi)",
+    "role": "agent",
+    "message": "ok. since when? neha- today only"
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "User",
+    "role": "customer",
+    "message": "press f8 when restart. tell me what happen"
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "AGENT (Ravi)",
+    "role": "agent",
+    "message": "means os boot maybe broke. will send fix doc"
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "User",
+    "role": "customer",
+    "message": "thank youuuu!!"
+  }
+]

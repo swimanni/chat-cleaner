@@ -1,0 +1,44 @@
+[
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "AGENT",
+    "role": "Agent",
+    "message": "Hey there!! Welcome to TechSupport :)"
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "User",
+    "role": "Customer",
+    "message": "laptop not start from morning, just black screen with cursor blinking"
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "AGENT (Ravi)",
+    "role": "Agent",
+    "message": "ok. since when?"
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "User (neha)",
+    "role": "Customer",
+    "message": "today only."
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "AGENT (Ravi)",
+    "role": "Agent",
+    "message": "press f8 when restart. tell me what happen"
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "User",
+    "role": "Customer",
+    "message": "safe mode opened. (yay)"
+  },
+  {
+    "time": "3rd OCT 25, Session: #Cht_9098",
+    "speaker": "AGENT (Ravi)",
+    "role": "Agent",
+    "message": "means os boot maybe broke. will send fix doc user : thank youuuu!!"
+  }
+]

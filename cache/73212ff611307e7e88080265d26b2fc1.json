@@ -1,0 +1,20 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Bot/Flow",
+    "role": "System",
+    "message": "Your conversation may be recorded for quality assurance and training purposes."
+  },
+  {
+    "time": "T2",
+    "speaker": "Bot/Flow",
+    "role": "System",
+    "message": "To create a positive experience for everyone, we kindly ask that conversations remain respectful. Inappropriate language will not be tolerated and may lead to the discontinuation of your interaction with us."
+  },
+  {
+    "time": "T3",
+    "speaker": "Bot/Flow",
+    "role": "System",
+    "message": "We appreciate your understanding. Please remain connected and we will be with you shortly."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Yifeng Mo",
+    "role": "Internal",
+    "message": "Participant text"
+  },
+  {
+    "time": "T2",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Participant text"
+  },
+  {
+    "time": "T3",
+    "speaker": "Tufel Ansari - EXT",
+    "role": "External",
+    "message": "Participant text"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "time": "10:41:22 PM",
+    "speaker": "774a038c-ea16-46e2-8eb9-848a2a15b3d2",
+    "role": "External Guest",
+    "message": "Transferred from Virtual Assistant chat, select the following to review chat history"
+  },
+  {
+    "time": "10:41:25 PM",
+    "speaker": "Internal PM",
+    "role": "Internal PM",
+    "message": ""
+  },
+  {
+    "time": "10:41:30 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "Hello, this is Tani from Rogers Technical Support. Hi Deborah , how are you today?"
+  },
+  {
+    "time": "10:42:20 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Good, yourself"
+  },
+  {
+    "time": "10:42:30 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "I am doing great. Thank you ! How can I help you today?"
+  },
+  {
+    "time": "10:43:07 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Can u reset my cable boxes, everything is working except my tv"
+  },
+  {
+    "time": "10:43:21 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "When did the issue start?"
+  },
+  {
+    "time": "10:43:48 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Been like this all day and we had same issue a week ago"
+  },
+  {
+    "time": "10:44:05 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "I can definitely help you today. Could you please give me 2 minutes to load your account?"
+  },
+  {
+    "time": "10:44:25 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Surely"
+  },
+  {
+    "time": "10:44:58 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "If you happen to lose connection or close this chat window accidentally during our conversation, you can reconnect with me immediately! The chat will remain active for up to 4 minutes, simply re-establish your connection or re-open the chat window as quickly as you can, and I will still be here to assist you."
+  },
+  {
+    "time": "10:45:26 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Ok"
+  },
+  {
+    "time": "10:45:31 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "I see that you are logged in to your MyRogers online account so you've been authenticated - your account is secure."
+  },
+  {
+    "time": "10:45:45 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "Do you have issues to all your TVs?"
+  },
+  {
+    "time": "10:46:01 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Yes"
+  },
+  {
+    "time": "10:46:26 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "Are you able to see any error messages on the screen?"
+  },
+  {
+    "time": "10:46:59 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Nothing tv justzes frez"
+  },
+  {
+    "time": "10:47:16 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "Freezing on all channels?"
+  },
+  {
+    "time": "10:47:35 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "I guess cat change channel"
+  },
+  {
+    "time": "10:47:56 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Can't"
+  },
+  {
+    "time": "10:48:55 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Boxes had to be reset last week they weren't getting signal"
+  },
+  {
+    "time": "10:50:39 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "Have you tried reboot the boxes?"
+  },
+  {
+    "time": "10:50:47 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Yes"
+  },
+  {
+    "time": "10:53:15 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "I am going to restart the boxes."
+  },
+  {
+    "time": "10:53:26 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Great"
+  },
+  {
+    "time": "10:55:41 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "Please wait for 1-2 minutes."
+  },
+  {
+    "time": "10:56:01 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Np"
+  },
+  {
+    "time": "10:57:17 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "It's a bit slow but working"
+  },
+  {
+    "time": "10:57:38 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "All TVs are working?"
+  },
+  {
+    "time": "10:59:56 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "Just checking in—are you still there? It seems like I haven't received a response from you in a while. Please let me know if you're still with me. If I don't hear back in the next 2 minutes, I may need to close the chat."
+  },
+  {
+    "time": "11:00:25 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Tvs working"
+  },
+  {
+    "time": "11:00:36 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "s there anything else I could help with?"
+  },
+  {
+    "time": "11:01:02 PM",
+    "speaker": "Deborah Duffenais",
+    "role": "External Guest",
+    "message": "Nope that's great have a good night"
+  },
+  {
+    "time": "11:01:17 PM",
+    "speaker": "Tani Jose",
+    "role": "Internal PM",
+    "message": "Feel free to contact us again if you need any further assistance at www.rogers.com/contactus 24 hours, 7 days a week; keep in mind you can always visit our support site for articles and troubleshooting guides at there you can use Anna our virtual assistant to help with any other questions you have. Thank you for your patience, and for choosing Rogers, have a great evening!"
+  }
+]

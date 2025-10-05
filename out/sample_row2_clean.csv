@@ -1,0 +1,10 @@
+﻿time,speaker,role,message
+12:30:01 PM,Agent Jane,Agent,"Hi, I’m Jane from support."
+12:31:10 PM,Customer Mark,Customer,"Hi, my account is locked."
+12:32:40 PM,Agent Jane,Agent,Let me check that for you.
+12:33:10 PM,Customer Mark,Customer,"Okay, thank you."
+12:34:10 PM,Agent Jane,Agent,Can you please confirm your email address?
+12:35:40 PM,Customer Mark,Customer,"Yes, it’s mark@email.com."
+12:36:10 PM,Agent Jane,Agent,"I see, I’ll reset your password now."
+12:37:10 PM,Customer Mark,Customer,"Thank you, Jane."
+12:38:10 PM,Agent Jane,Agent,You’re welcome. Have a great day!

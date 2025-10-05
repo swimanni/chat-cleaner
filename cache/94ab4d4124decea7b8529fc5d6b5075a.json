@@ -1,0 +1,56 @@
+[
+  {
+    "time": "T1",
+    "speaker": "cust",
+    "role": "User",
+    "message": "hello tech"
+  },
+  {
+    "time": "T2",
+    "speaker": "agent(Rahul)",
+    "role": "Agent",
+    "message": "hi! what issue?"
+  },
+  {
+    "time": "T3",
+    "speaker": "cust",
+    "role": "User",
+    "message": "my order stuck in process since yest"
+  },
+  {
+    "time": "T4",
+    "speaker": "agent(Rahul)",
+    "role": "Agent",
+    "message": "pls give id"
+  },
+  {
+    "time": "T5",
+    "speaker": "cust",
+    "role": "User",
+    "message": "ORD_55A9"
+  },
+  {
+    "time": "T6",
+    "speaker": "agent(Rahul)",
+    "role": "Agent",
+    "message": "okay tracking now.. give me 2mins"
+  },
+  {
+    "time": "T7",
+    "speaker": "cust",
+    "role": "User",
+    "message": "ok waitinggg"
+  },
+  {
+    "time": "T8",
+    "speaker": "agent(Rahul)",
+    "role": "Agent",
+    "message": "shipped 5 oct"
+  },
+  {
+    "time": "T9",
+    "speaker": "cust",
+    "role": "User",
+    "message": "cool ty bye"
+  }
+]

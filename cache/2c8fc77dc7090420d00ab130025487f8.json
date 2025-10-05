@@ -1,0 +1,56 @@
+[
+  {
+    "time": "12:30:01 PM",
+    "speaker": "Agent Jane",
+    "role": "Agent",
+    "message": "Hi, I’m Jane from support."
+  },
+  {
+    "time": "12:31:10 PM",
+    "speaker": "Customer Mark",
+    "role": "Customer",
+    "message": "Hi, my account is locked."
+  },
+  {
+    "time": "12:32:40 PM",
+    "speaker": "Agent Jane",
+    "role": "Agent",
+    "message": "Let me check that for you."
+  },
+  {
+    "time": "12:33:10 PM",
+    "speaker": "Customer Mark",
+    "role": "Customer",
+    "message": "Okay, thank you."
+  },
+  {
+    "time": "12:34:10 PM",
+    "speaker": "Agent Jane",
+    "role": "Agent",
+    "message": "Can you please confirm your email address?"
+  },
+  {
+    "time": "12:35:40 PM",
+    "speaker": "Customer Mark",
+    "role": "Customer",
+    "message": "Yes, it’s mark@email.com."
+  },
+  {
+    "time": "12:36:10 PM",
+    "speaker": "Agent Jane",
+    "role": "Agent",
+    "message": "I see, I’ll reset your password now."
+  },
+  {
+    "time": "12:37:10 PM",
+    "speaker": "Customer Mark",
+    "role": "Customer",
+    "message": "Thank you, Jane."
+  },
+  {
+    "time": "12:38:10 PM",
+    "speaker": "Agent Jane",
+    "role": "Agent",
+    "message": "You’re welcome. Have a great day!"
+  }
+]

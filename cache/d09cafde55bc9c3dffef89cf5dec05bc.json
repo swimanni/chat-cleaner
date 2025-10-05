@@ -1,0 +1,20 @@
+[
+  {
+    "time": "T1",
+    "speaker": "External",
+    "role": "User",
+    "message": "Don’t have a account"
+  },
+  {
+    "time": "T2",
+    "speaker": "External",
+    "role": "User",
+    "message": "I had called in a week ago with an agent and said I would receive an email after 2 days"
+  },
+  {
+    "time": "T3",
+    "speaker": "Internal",
+    "role": "Agent",
+    "message": "Yes that' s correct once the account is cancelled you should receive it in 2 days."
+  }
+]

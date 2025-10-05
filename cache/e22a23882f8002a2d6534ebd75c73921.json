@@ -1,0 +1,92 @@
+[
+  {
+    "time": "09:00:00",
+    "speaker": "Arjun Mehta",
+    "role": "External Guest",
+    "message": " hey... payment failed 😭CREF"
+  },
+  {
+    "time": "09:01:01",
+    "speaker": "Rina Das",
+    "role": "Internal",
+    "message": "Hi! I’m Rina, from Billing Support. Could you please share your transaction ID?"
+  },
+  {
+    "time": "09:02:03",
+    "speaker": "Arjun Mehta",
+    "role": "External Guest",
+    "message": "TXN#4457_11"
+  },
+  {
+    "time": "09:04:04",
+    "speaker": "Rina Das",
+    "role": "Internal",
+    "message": "Thanks! Let me check this for you... 💻 one moment please."
+  },
+  {
+    "time": "09:05:05",
+    "speaker": "Internal System",
+    "role": "System",
+    "message": "Your chat may be recorded for quality and training."
+  },
+  {
+    "time": "09:06:06",
+    "speaker": "Arjun Mehta",
+    "role": "External Guest",
+    "message": "System shows refund in progress — expected 2-3 biz days."
+  },
+  {
+    "time": "09:07:07",
+    "speaker": "Arjun Mehta",
+    "role": "External Guest",
+    "message": "oh ok, pls send me mail confirmation"
+  },
+  {
+    "time": "09:07:07",
+    "speaker": "Rina Das",
+    "role": "Internal",
+    "message": "done ✅ mailed to your registered address."
+  },
+  {
+    "time": "09:08:08",
+    "speaker": "Arjun Mehta",
+    "role": "External Guest",
+    "message": "got it thanks so much!!"
+  },
+  {
+    "time": "14:01:01",
+    "speaker": "External Guest",
+    "role": "External Guest",
+    "message": "hi, need to cancel my subscription"
+  },
+  {
+    "time": "14:02:02",
+    "speaker": "Dev Patel",
+    "role": "Internal",
+    "message": "Hello 👋 — sure, could you please confirm your email?"
+  },
+  {
+    "time": "14:03:03",
+    "speaker": "External Guest",
+    "role": "External Guest",
+    "message": "dev@sample.com"
+  },
+  {
+    "time": "14:05:05",
+    "speaker": "Dev Patel",
+    "role": "Internal",
+    "message": "Thanks! Cancelled. You’ll receive an email shortly."
+  },
+  {
+    "time": "14:06:06",
+    "speaker": "External Guest",
+    "role": "External Guest",
+    "message": "appreciate it 🙏"
+  },
+  {
+    "time": "14:07:07",
+    "speaker": "Internal System",
+    "role": "System",
+    "message": "Chat ended."
+  }
+]

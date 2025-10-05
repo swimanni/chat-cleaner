@@ -1,0 +1,50 @@
+[
+  {
+    "time": "09:00:00",
+    "speaker": "Guest",
+    "role": "Customer",
+    "message": "payment failed issue"
+  },
+  {
+    "time": "09:01:00",
+    "speaker": "Rina Das",
+    "role": "Billing Support",
+    "message": "checks transaction ID"
+  },
+  {
+    "time": "09:05:00",
+    "speaker": "Rina Das",
+    "role": "Billing Support",
+    "message": "system chat recording notice"
+  },
+  {
+    "time": "09:06:00",
+    "speaker": "Arjun",
+    "role": "Billing Support",
+    "message": "refund in progress"
+  },
+  {
+    "time": "09:07:00",
+    "speaker": "Guest",
+    "role": "Customer",
+    "message": "requests email confirmation"
+  },
+  {
+    "time": "09:07:00",
+    "speaker": "Rina Das",
+    "role": "Billing Support",
+    "message": "sends email confirmation"
+  },
+  {
+    "time": "09:08:00",
+    "speaker": "Guest",
+    "role": "Customer",
+    "message": "confirms receipt of email"
+  },
+  {
+    "time": "09:09:00",
+    "speaker": "System",
+    "role": "Chatbot",
+    "message": "chat end"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "time": "12:19:01 PM",
+    "speaker": "Agent John",
+    "role": "Agent",
+    "message": "Hello! I’m John from support."
+  },
+  {
+    "time": "12:20:10 PM",
+    "speaker": "Customer Sara",
+    "role": "Customer",
+    "message": "Hi, my internet is very slow today."
+  },
+  {
+    "time": "12:20:55 PM",
+    "speaker": "Agent John",
+    "role": "Agent",
+    "message": "I see, let’s run a quick check."
+  },
+  {
+    "time": "12:21:40 PM",
+    "speaker": "Customer Sara",
+    "role": "Customer",
+    "message": "Sure, thank you."
+  },
+  {
+    "time": "12:22:10 PM",
+    "speaker": "Agent John",
+    "role": "Agent",
+    "message": "Can you please confirm your connection type?"
+  },
+  {
+    "time": "12:23:40 PM",
+    "speaker": "Customer Sara",
+    "role": "Customer",
+    "message": "Sure."
+  },
+  {
+    "time": "12:24:10 PM",
+    "speaker": "Agent John",
+    "role": "Agent",
+    "message": "Please check?"
+  },
+  {
+    "time": "12:25:40 PM",
+    "speaker": "Customer Sara",
+    "role": "Customer",
+    "message": "ok."
+  },
+  {
+    "time": "12:26:10 PM",
+    "speaker": "Agent John",
+    "role": "Agent",
+    "message": "Now is it done?"
+  },
+  {
+    "time": "12:26:40 PM",
+    "speaker": "Customer Sara",
+    "role": "Customer",
+    "message": "Yes."
+  },
+  {
+    "time": "12:27:10 PM",
+    "speaker": "Agent John",
+    "role": "Agent",
+    "message": "Great, I’ll escalate this to our network team."
+  },
+  {
+    "time": "12:28:10 PM",
+    "speaker": "Customer Sara",
+    "role": "Customer",
+    "message": "Thank you, John."
+  }
+]

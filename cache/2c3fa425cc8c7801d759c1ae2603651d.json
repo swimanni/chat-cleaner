@@ -1,0 +1,68 @@
+[
+  {
+    "time": "T1",
+    "speaker": "system",
+    "role": "System",
+    "message": "chat start"
+  },
+  {
+    "time": "T2",
+    "speaker": "user",
+    "role": "User",
+    "message": "hello? anybody there?"
+  },
+  {
+    "time": "T3",
+    "speaker": "agent",
+    "role": "Agent",
+    "message": "hi! yes here — how can I help?"
+  },
+  {
+    "time": "T4",
+    "speaker": "user",
+    "role": "User",
+    "message": "payment failed.. money gone!! 😭😭"
+  },
+  {
+    "time": "T5",
+    "speaker": "agent",
+    "role": "Agent",
+    "message": "share txn id pls"
+  },
+  {
+    "time": "T6",
+    "speaker": "user",
+    "role": "User",
+    "message": "TXN_9087_9"
+  },
+  {
+    "time": "T7",
+    "speaker": "agent",
+    "role": "Agent",
+    "message": "okay checking.. wait 2min"
+  },
+  {
+    "time": "T8",
+    "speaker": "user",
+    "role": "User",
+    "message": "okkk"
+  },
+  {
+    "time": "T9",
+    "speaker": "agent",
+    "role": "Agent",
+    "message": "confirmed — refunded in 48hrs"
+  },
+  {
+    "time": "T10",
+    "speaker": "user",
+    "role": "User",
+    "message": "thank you so much!"
+  },
+  {
+    "time": "T11",
+    "speaker": "sys",
+    "role": "System",
+    "message": "chat end"
+  }
+]

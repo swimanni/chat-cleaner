@@ -1,0 +1,9 @@
+﻿time,speaker,role,message
+09:00:00,Guest,Customer,payment failed issue
+09:01:00,Rina Das,Billing Support,checks transaction ID
+09:05:00,Rina Das,Billing Support,system chat recording notice
+09:06:00,Arjun,Billing Support,refund in progress
+09:07:00,Guest,Customer,requests email confirmation
+09:07:00,Rina Das,Billing Support,sends email confirmation
+09:08:00,Guest,Customer,confirms receipt of email
+09:09:00,System,Chatbot,chat end

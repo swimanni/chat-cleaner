@@ -1,0 +1,14 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Virtual Assistant",
+    "role": "System",
+    "message": "Transferred from bot"
+  },
+  {
+    "time": "T2",
+    "speaker": "Yifeng Mo",
+    "role": "User",
+    "message": "Select the following to review chat history"
+  }
+]

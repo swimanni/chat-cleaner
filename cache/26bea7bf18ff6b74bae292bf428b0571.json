@@ -1,0 +1,50 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Ravi",
+    "role": "Agent",
+    "message": "Hey there!! Welcome to TechSupport"
+  },
+  {
+    "time": "T1",
+    "speaker": "User",
+    "role": "User",
+    "message": "laptop not start frm morning, just black screen w cursor blinking"
+  },
+  {
+    "time": "T2",
+    "speaker": "Ravi",
+    "role": "Agent",
+    "message": "ok. since when?"
+  },
+  {
+    "time": "T2",
+    "speaker": "Neha",
+    "role": "Internal",
+    "message": "today only."
+  },
+  {
+    "time": "T3",
+    "speaker": "Ravi",
+    "role": "Agent",
+    "message": "press f8 whn restart. tell me what happen"
+  },
+  {
+    "time": "T4",
+    "speaker": "user",
+    "role": "User",
+    "message": "safe mode opened. (yay)"
+  },
+  {
+    "time": "T5",
+    "speaker": "Ravi",
+    "role": "Agent",
+    "message": "means os boot maybe broke. will send fix doc"
+  },
+  {
+    "time": "T6",
+    "speaker": "usr",
+    "role": "User",
+    "message": "thank uuuu!!"
+  }
+]

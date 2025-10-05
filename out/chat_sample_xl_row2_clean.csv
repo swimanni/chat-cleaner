@@ -1,0 +1,10 @@
+﻿time,speaker,role,message
+8:59am,cust,customer,hello tech??
+8:59am,agent,agent,hi! what issue?
+8:59am,cust,customer,my order stuck in process since yesterday
+8:59am,agent,agent,pls give id
+8:59am,cust,customer,ORD_55A9
+8:59am,agent,agent,okay tracking now.. give me 2mins
+8:59am,cust,customer,ok waitinggg
+8:59am,agent,agent,shipped 5 oct
+8:59am,cust,customer,cool ty bye

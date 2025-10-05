@@ -1,0 +1,164 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Bot/Flow",
+    "role": "System",
+    "message": "*Conversation ID:c802670a-4656-423d-b499-a05317d3422c"
+  },
+  {
+    "time": "T2",
+    "speaker": "Bot/Flow",
+    "role": "System",
+    "message": "Your conversation may be recorded for quality assurance and training purposes. To create a positive experience for everyone, we kindly ask that conversations remain respectful. Inappropriate language will not be tolerated and may lead to the discontinuation of your interaction with us. We appreciate your understanding. Please remain connected and we will be with you shortly."
+  },
+  {
+    "time": "T3",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Hello, I am Ayikoele from ratl Technical Support in Quebec How are you today?"
+  },
+  {
+    "time": "T4",
+    "speaker": "Guest",
+    "role": "User",
+    "message": "Good, how are you"
+  },
+  {
+    "time": "T5",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "I’m doing good thank you! How may I assist you today?"
+  },
+  {
+    "time": "T6",
+    "speaker": "Guest",
+    "role": "User",
+    "message": "I would like to return rental equipments"
+  },
+  {
+    "time": "T7",
+    "speaker": "Guest",
+    "role": "User",
+    "message": "But have not received a waybill yet"
+  },
+  {
+    "time": "T8",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "I understand you want to return equipement. I can definitely help you with that."
+  },
+  {
+    "time": "T9",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "In order to access your account in a secure way I’ll send you a secure form requesting various information, let me know when you’re done. Thanks"
+  },
+  {
+    "time": "T10",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "If a form requesting your personal information does not appear, <a class=\"safesend-link\" href=\"https://chatapps.ratl.com/secure/safesend2/customer/ratl/2f9efc00-79e7-11f0-a5ac-cdd55cfffdf7\" target=\"_blank\">please click here</a> to open it in a new tab."
+  },
+  {
+    "time": "T11",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Just checking in—are you still there? It seems like I haven't received a response from you in a while. Please let me know if you’re still with me. If I don't hear back in the next 2 minutes, I may need to close the chat."
+  },
+  {
+    "time": "T12",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Thank you"
+  },
+  {
+    "time": "T13",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Thank you for your patience"
+  },
+  {
+    "time": "T14",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "I cannot find the account"
+  },
+  {
+    "time": "T15",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Can you please give me the account number?"
+  },
+  {
+    "time": "T16",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "If a form requesting your personal information does not appear, <a class=\"safesend-link\" href=\"https://chatapps.ratl.com/secure/safesend2/customer/ratl/2f9efc00-79e7-11f0-a5ac-cdd55cfffdf7\" target=\"_blank\">please click here</a> to open it in a new tab."
+  },
+  {
+    "time": "T17",
+    "speaker": "Guest",
+    "role": "User",
+    "message": "Don’t have a account"
+  },
+  {
+    "time": "T18",
+    "speaker": "Guest",
+    "role": "User",
+    "message": "I had called in a week ago with an agent and said I would receive an email after 2 days"
+  },
+  {
+    "time": "T19",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Yes that' s correct once the account is cancelled you should receive it in 2 days."
+  },
+  {
+    "time": "T20",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "I need to access the account to check if the return is available to ship it to you"
+  },
+  {
+    "time": "T21",
+    "speaker": "Guest",
+    "role": "User",
+    "message": "Where to check the account"
+  },
+  {
+    "time": "T22",
+    "speaker": "Guest",
+    "role": "User",
+    "message": "I dont believe I have a Roger’s accoutn"
+  },
+  {
+    "time": "T23",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "You can find it on your bill"
+  },
+  {
+    "time": "T24",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Every service is in one account"
+  },
+  {
+    "time": "T25",
+    "speaker": "Guest",
+    "role": "User",
+    "message": "Give me one moment"
+  },
+  {
+    "time": "T26",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Thank you"
+  },
+  {
+    "time": "T27",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Just checking in—are you still there? It seems like I haven't received a response from you in a while."
+  }
+]

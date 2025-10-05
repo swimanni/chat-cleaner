@@ -1,0 +1,14 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Virtual Assistant",
+    "role": "System",
+    "message": "Transferred from Virtual Assistant chat, select the following to review chat history"
+  },
+  {
+    "time": "T2",
+    "speaker": "Internal",
+    "role": "Internal",
+    "message": ""
+  }
+]

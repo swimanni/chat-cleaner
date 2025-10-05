@@ -1,0 +1,37 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Tani Jose - EXT",
+    "role": "Agent",
+    "message": "Hello, this is Tani from Rogers Technical Support. Hi Deborah , how are you today?"
+  },
+  {
+    "time": "T2",
+    "speaker": "External Guest",
+    "role": "User",
+    "message": "Good, yourself"
+  },
+  {
+    "time": "T3",
+    "speaker": "Tani Jose - EXT",
+    "role": "Agent",
+    "message": "I am doing great. Thank you ! How can I help you today?"
+  },
+  {
+    "time": "T4",
+    "speaker": "External Guest",
+    "role": "User",
+    "message": "Can u reset my cable boxes, everything is working except my tv"
+  },
+  {
+    "time": "T5",
+    "speaker": "Tani Jose - EXT",
+    "role": "Agent",
+    "message": "When did the issue start?"
+  },
+  {
+    "time": "T6",
+    "speaker": "External Guest",
+    "role": "User]"
+  }
+]

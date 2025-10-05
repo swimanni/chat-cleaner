@@ -1,0 +1,44 @@
+[
+  {
+    "time": "T1",
+    "speaker": "External",
+    "role": "External",
+    "message": "It looks like we've lost connection."
+  },
+  {
+    "time": "T2",
+    "speaker": "External",
+    "role": "External",
+    "message": "Guest Hello?"
+  },
+  {
+    "time": "T3",
+    "speaker": "Internal",
+    "role": "Agent",
+    "message": "Ayikoele Atayi - EXT Thank you"
+  },
+  {
+    "time": "T4",
+    "speaker": "Internal",
+    "role": "Agent",
+    "message": "Ayikoele Atayi - EXT Are your service wireless or residential?"
+  },
+  {
+    "time": "T5",
+    "speaker": "External",
+    "role": "User",
+    "message": "Guest Residential"
+  },
+  {
+    "time": "T6",
+    "speaker": "External",
+    "role": "User",
+    "message": "Guest Our buildings have switched over to bell"
+  },
+  {
+    "time": "T7",
+    "speaker": "Internal",
+    "role": "Agent",
+    "message": "Ayikoele Atayi - EXT Okay."
+  }
+]

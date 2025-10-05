@@ -1,0 +1,38 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Hello, I am Ayikoele from ratl Technical Support in Quebec How are you today?"
+  },
+  {
+    "time": "T2",
+    "speaker": "Guest",
+    "role": "External",
+    "message": "Good, how are you"
+  },
+  {
+    "time": "T3",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "I’m doing good thank you! How may I assist you today?"
+  },
+  {
+    "time": "T4",
+    "speaker": "Guest",
+    "role": "External",
+    "message": "I would like to return rental equipments"
+  },
+  {
+    "time": "T5",
+    "speaker": "Guest",
+    "role": "External",
+    "message": "But have not received a waybill yet"
+  },
+  {
+    "time": "T6",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "I understand you want to return equipement."
+  }
+]

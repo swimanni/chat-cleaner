@@ -1,0 +1,13 @@
+﻿time,speaker,role,message
+12:19:01 PM,Agent John,Agent,Hello! I’m John from support.
+12:20:10 PM,Customer Sara,Customer,"Hi, my internet is very slow today."
+12:20:55 PM,Agent John,Agent,"I see, let’s run a quick check."
+12:21:40 PM,Customer Sara,Customer,"Sure, thank you."
+12:22:10 PM,Agent John,Agent,Can you please confirm your connection type?
+12:23:40 PM,Customer Sara,Customer,Sure.
+12:24:10 PM,Agent John,Agent,Please check?
+12:25:40 PM,Customer Sara,Customer,ok.
+12:26:10 PM,Agent John,Agent,Now is it done?
+12:26:40 PM,Customer Sara,Customer,Yes.
+12:27:10 PM,Agent John,Agent,"Great, I’ll escalate this to our network team."
+12:28:10 PM,Customer Sara,Customer,"Thank you, John."

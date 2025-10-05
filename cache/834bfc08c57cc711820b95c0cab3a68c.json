@@ -1,0 +1,20 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Agent",
+    "role": "Agent",
+    "message": "Is there anything else I can help you?"
+  },
+  {
+    "time": "T2",
+    "speaker": "Guest",
+    "role": "External",
+    "message": "Thank you, have a nice day"
+  },
+  {
+    "time": "T3",
+    "speaker": "Tufel Ansari - EXT",
+    "role": "Internal",
+    "message": "Thank you for contacting ratl, it was a pleasure assisting and chatting with you today. Have a great day ahead!"
+  }
+]

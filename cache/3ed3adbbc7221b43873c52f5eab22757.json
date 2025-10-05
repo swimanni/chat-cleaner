@@ -1,0 +1,32 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Agent John",
+    "role": "Agent",
+    "message": "I’m John from support."
+  },
+  {
+    "time": "T2",
+    "speaker": "Customer Sara",
+    "role": "User",
+    "message": "Hi, my internet is very slow today."
+  },
+  {
+    "time": "T3",
+    "speaker": "Agent John",
+    "role": "Agent",
+    "message": "I see, let’s run a quick check."
+  },
+  {
+    "time": "T4",
+    "speaker": "Customer Sara",
+    "role": "User",
+    "message": "Sure, thank you."
+  },
+  {
+    "time": "T5",
+    "speaker": "Agent John",
+    "role": "Agent",
+    "message": "Can you please confirm your connection type?"
+  }
+]

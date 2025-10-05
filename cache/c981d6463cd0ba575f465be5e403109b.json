@@ -1,0 +1,20 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Agent",
+    "role": "Agent",
+    "message": "How can I assist you today?"
+  },
+  {
+    "time": "T2",
+    "speaker": "User",
+    "role": "User",
+    "message": "I need help with my account password."
+  },
+  {
+    "time": "T3",
+    "speaker": "Agent",
+    "role": "Agent",
+    "message": "Sure, I can help you reset your password. Could you provide me with the email address associated with your account?"
+  }
+]

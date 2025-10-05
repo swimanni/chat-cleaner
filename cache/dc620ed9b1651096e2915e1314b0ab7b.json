@@ -1,0 +1,62 @@
+[
+  {
+    "time": "09:00",
+    "speaker": "system",
+    "role": "agent",
+    "message": "hi! yes here — how can I help?"
+  },
+  {
+    "time": "09:00",
+    "speaker": "user",
+    "role": "customer",
+    "message": "helloo?? anybody there??"
+  },
+  {
+    "time": "09:00",
+    "speaker": "user",
+    "role": "customer",
+    "message": "payment failed.. money gone!! 😭CREF"
+  },
+  {
+    "time": "09:01",
+    "speaker": "agent",
+    "role": "agent",
+    "message": "share txn id pls"
+  },
+  {
+    "time": "09:01",
+    "speaker": "user",
+    "role": "customer",
+    "message": "TXN_9087_9"
+  },
+  {
+    "time": "09:01",
+    "speaker": "agent",
+    "role": "agent",
+    "message": "okay checking.. wait 2min"
+  },
+  {
+    "time": "09:01",
+    "speaker": "user",
+    "role": "customer",
+    "message": "okkk"
+  },
+  {
+    "time": "09:02",
+    "speaker": "agent",
+    "role": "agent",
+    "message": "confirmed — refunded in 48hrs"
+  },
+  {
+    "time": "09:02",
+    "speaker": "user",
+    "role": "customer",
+    "message": "thnk u sm!"
+  },
+  {
+    "time": "09:02",
+    "speaker": "sys",
+    "role": "system",
+    "message": "chat end"
+  }
+]

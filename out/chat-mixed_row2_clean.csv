@@ -1,0 +1,6 @@
+﻿time,speaker,role,message
+14:01,Guest,customer,requests to cancel subscription
+14:02,Guest,customer,confirms email
+14:05,Dev Patel,developer,cancels subscription
+14:06,Guest,customer,thanks Dev Patel
+14:07,System,automated,chat end

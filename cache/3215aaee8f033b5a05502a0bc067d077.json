@@ -1,0 +1,62 @@
+[
+  {
+    "time": "T1",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "I need to access the account to check if the return is available to ship it to you"
+  },
+  {
+    "time": "T2",
+    "speaker": "Guest",
+    "role": "External",
+    "message": "Where to check the account"
+  },
+  {
+    "time": "T3",
+    "speaker": "Guest",
+    "role": "External",
+    "message": "I dont believe I have a Roger’s accoutn"
+  },
+  {
+    "time": "T4",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "You can find it on your bill"
+  },
+  {
+    "time": "T5",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "Every service is in one account"
+  },
+  {
+    "time": "T6",
+    "speaker": "Guest",
+    "role": "External",
+    "message": "Give me one moment"
+  },
+  {
+    "time": "T7",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "Thank you"
+  },
+  {
+    "time": "T8",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "External",
+    "message": "Can you please tell me if your account is ratl or ratl with Shaw?"
+  },
+  {
+    "time": "T9",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "Just checking in—are you still there? It seems like I haven't received a response from you in a while. Please let me know if you’re still with me. If I don't hear back in the next 2 minutes, I may need to close the chat."
+  },
+  {
+    "time": "T10",
+    "speaker": "Ayikoele Atayi - EXT",
+    "role": "Internal",
+    "message": "It looks like we've lost connection."
+  }
+]

@@ -1,0 +1,12 @@
+﻿time,speaker,role,message
+09:00,system,system,chat start
+09:00,user,user,helloo?? anybody there?? 
+09:00,agent,agent,hi! yes here — how can I help?
+09:00,user,user,payment failed.. money gone!! 😭 cried
+09:00,agent,agent,okay checking.. wait 2min
+09:00,user,user,okkk
+09:00,agent,agent,confirmed — refunded in 48hrs
+09:00,user,user,thnk u sm!
+09:00,system,system,chat end
+NA,user,user,TXN_9087_9
+NA,agent,agent,share txn id pls
